@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Julia Doyle</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <h1>Julia Doyle</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="writing.html">Writing</a>
+    <a href="featured.html">Featured</a>
+    <a href="about.html">

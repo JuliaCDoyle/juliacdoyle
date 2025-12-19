@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Julia Doyle</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <h1>About</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="writing.html">Writing</a>
+    <a href="featured.html">Featured</a>
+    <a href="about.html">About</a>
+  </nav>
+</header>
+
+<main>
+  <p>
+    Julia Doyle is a writer and creator working in editorial writing and video.
+    Her work explores ideas, culture, and narrative through a polished editorial lens.
+  </p>
+</main>
+
+</body>
+</html>
